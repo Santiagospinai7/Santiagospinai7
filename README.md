@@ -4,9 +4,16 @@ Welcome to my Github!
 I'm Santiago, Fullstack developer from 🇨🇴 Medellín, Colombia. Currently I'm in Denmark 🇩🇰.
 
 <!-- Tools -->
-<h3>Things I code with</h3>
+<h2 align="left">🛠 Things I code with:</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Ruby on rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyOnRails&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+  <img alt="Spark" src="https://img.shields.io/badge/-Spark-FF5C83?style=flat-square&logo=sparkAR&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Lens Studio" src="https://img.shields.io/badge/-LensStudio-FFFC00?style=flat-square&logo=Snapchat&logoColor=black" />
+  <img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
+  <img alt="Three.js" src="https://img.shields.io/badge/-Three-000000?style=flat-square&logo=three.js&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -23,7 +30,7 @@ I'm Santiago, Fullstack developer from 🇨🇴 Medellín, Colombia. Currently I
 <!-- Social Media -->
 <h2 align="left">👾 Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-santiago-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ospina-idrobo-733a24180/) [![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FIdroboOspina)](https://twitter.com/IdroboOspina)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ospina-idrobo-733a24180/) [![Twitter Badge](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FIdroboOspina)](https://twitter.com/IdroboOspina)
 
 
 <!--
