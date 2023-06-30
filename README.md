@@ -1,7 +1,7 @@
 ### Hey I hope you're doing greate! 👋
 
 Welcome to my Github!
-I'm Santiago, Fullstack developer from 🇨🇴 Medellín, Colombia. Currently I'm in Denmark 🇩🇰.
+I'm Santiago, Fullstack developer from 🇨🇴 Medellín, Colombia.
 
 <!-- Tools -->
 <h2 align="left">🛠 Things I code with:</h2>
